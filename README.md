@@ -1,0 +1,2 @@
+# Projeto de API de uma biblioteca
+Eu criei este projeto pra praticar o CRUD em uma API. Neste projeto criei um banco de dados pelo MongoDB e utilizei a biblioteca Mongoose para as interações. Comecei a utilizar funções assíncronas, tratamento de erros e dei um passo a mais na organização dos projetos. O projeto pode receber algumas melhorias, conforme precise treinar mais conceitos de manipulação de API.
