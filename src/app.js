@@ -1,5 +1,5 @@
 import express from "express";
-import conexaoDatabase from "./config/dbconnect.js";
+import conexaoDatabase from "./config/dbConnect.js";
 // import Livro from "./models/Livro.js";
 import route from "./routes/index.js";
 import routes from "./routes/index.js";
