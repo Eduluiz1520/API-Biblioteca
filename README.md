@@ -127,4 +127,4 @@ O projeto continua sendo utilizado para estudos e poderá receber novas funciona
 
 ## 👤 Autor
 
-Desenvolvido por **Eduardo Luiz** como projeto de estudo de Desenvolvimento Back-End.
+Desenvolvido por **Eduardo Nascimento** como projeto de estudo de Desenvolvimento Back-End.
