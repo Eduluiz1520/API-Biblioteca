@@ -16,7 +16,6 @@ Este projeto foi desenvolvido durante meus estudos de Back-End com o objetivo de
 * Integração com MongoDB;
 * Modelagem de dados utilizando Mongoose;
 * Utilização de variáveis de ambiente;
-* Tratamento de erros;
 * Organização da estrutura de uma aplicação Back-End.
 
 O projeto também serve como ambiente de estudo para implementação de novos conceitos conforme avanço no aprendizado de Node.js.
